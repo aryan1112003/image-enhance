@@ -144,4 +144,4 @@ We follow strict coding standards:
 
 ---
 
-<p align="center">Made with ❤️ and JavaScript</p>
+<p align="center">Made with ❤️ and JavaScriptby Aryan Acharya</p>
